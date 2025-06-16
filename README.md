@@ -58,7 +58,7 @@ The threshold can be automatically set. Users can be able to set various thresho
 
 
 
-# iot-smarthome.v2-firmware
+# buni-smarthome.v2-firmware
 
 **Angaza Elimu Smarthome v2 project - firmware**
 
